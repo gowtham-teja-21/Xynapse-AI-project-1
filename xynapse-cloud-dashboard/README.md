@@ -47,6 +47,15 @@ This project helps interns understand **multi-cloud cost management**, **data vi
    git clone https://github.com/gowtham-teja-21/Xynapse-AI-project-1.git
    cd xynapse-cloud-dashboard
 
+Install dependencies
+
+pip install streamlit pandas matplotlib
+
+Run the app
+
+streamlit run app.py
+
+Open your browser at http://localhost:8501
    
 📧 Contact
 
